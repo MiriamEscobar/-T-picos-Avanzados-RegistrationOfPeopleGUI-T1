@@ -1,5 +1,4 @@
 
-
 package com.mycompany.registration_of_people;
 
 import javax.swing.*;
